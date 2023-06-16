@@ -6,7 +6,7 @@ Prerequisites
 
 Installing
 
-- Clone the repository: git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+- Clone the repository: git clone https://github.com/davidmatevski/Chat_Application.git
 - Navigate to the project directory: cd YOUR_REPOSITORY_NAME
 - Install the dependencies: npm install
 - Run the application: npm start OR npm index.js
